@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\ME\SDA&Ericsson\projekty\CPP_Object\CPP_Object\main.cpp(33,12): warning C4930: 'Rectangle rect3(Point,Point)': prototyped function not called (was a variable definition intended?)
+  Zadanie4.1.vcxproj -> C:\ME\SDA&Ericsson\projekty\CPP_Object\x64\Debug\Zadanie4.1.exe
