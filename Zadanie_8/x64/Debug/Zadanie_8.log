@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\Point2D.hpp(32,10): error C2371: 'p2': redefinition; different basic types
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\Point2D.hpp(31): message : see declaration of 'p2'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\main.cpp(7,10): error C2512: 'Point2D': no appropriate default constructor available
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\Point2D.hpp(2,7): message : see declaration of 'Point2D'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\main.cpp(8,10): error C2512: 'Point2D': no appropriate default constructor available
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\Point2D.hpp(2,7): message : see declaration of 'Point2D'
+  Point2D.cpp
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\Point2D.hpp(32,10): error C2371: 'p2': redefinition; different basic types
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_8\Point2D.hpp(31): message : see declaration of 'p2'
+  Generating Code...

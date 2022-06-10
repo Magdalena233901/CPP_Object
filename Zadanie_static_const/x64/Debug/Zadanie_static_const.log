@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_static_const\main.cpp(16,8): error C2280: 'LectureRoom &LectureRoom::operator =(const LectureRoom &)': attempting to reference a deleted function
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_static_const\Static_const.hpp(18): message : compiler has generated 'LectureRoom::operator =' here
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_static_const\Static_const.hpp(18,1): message : 'LectureRoom &LectureRoom::operator =(const LectureRoom &)': function was implicitly deleted because 'LectureRoom' has a data member 'LectureRoom::floor' of const-qualified non-class type
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Zadanie_static_const\Static_const.hpp(6): message : see declaration of 'LectureRoom::floor'
+  Static_const.cpp
+  Generating Code...
