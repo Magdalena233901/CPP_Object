@@ -3,7 +3,7 @@
 #include <iostream>
 
 
-int mian()
+int main()
 {
 	Hangman game("wisielec");
 	bool finished;
@@ -11,7 +11,7 @@ int mian()
 	{
 		std::string guess = game.getGuess(); // zwracac _ A _ _ _ A _
 		std::cout << guess << std::endl;
-		std::string alphabet = getAlphabet(); // zwraca _ B C D E _
+		std::string alphabet = game.getAlphabet(); // zwraca _ B C D E _
 		std::cout << alphabet << std::endl;
 
 		std::cout << "Guess a letter: ";
