@@ -1,0 +1,5 @@
+﻿  BlackBoxGuess.cpp
+  main.cpp
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\BlackBoxGuess\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  BlackBoxGuess.vcxproj -> C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\x64\Debug\BlackBoxGuess.exe
