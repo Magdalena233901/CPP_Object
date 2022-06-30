@@ -1,0 +1,55 @@
+﻿  Backpack.cpp
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,6): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,13): error C2143: syntax error: missing ';' before '&'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,32): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,39): error C2473: 'operator <<': looks like a function definition, but there is no parameter list.
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,41): error C2065: 's': undeclared identifier
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,44): error C2059: syntax error: 'const'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,6): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,13): error C2143: syntax error: missing ';' before '&'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,13): error C2086: 'int ostream': redefinition
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47): message : see declaration of 'ostream'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,32): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,39): error C2473: 'operator <<': looks like a function definition, but there is no parameter list.
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,15): error C2374: '<<': redefinition; multiple initialization
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47): message : see declaration of '<<'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,41): error C2065: 's': undeclared identifier
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,44): error C2059: syntax error: 'const'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.cpp(102,15): error C2365: '<<': redefinition; previous definition was 'data variable'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47): message : see declaration of '<<'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.cpp(105,19): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  main.cpp
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,6): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,13): error C2143: syntax error: missing ';' before '&'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,32): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,39): error C2473: 'operator <<': looks like a function definition, but there is no parameter list.
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,41): error C2065: 's': undeclared identifier
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47,44): error C2059: syntax error: 'const'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,6): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,13): error C2143: syntax error: missing ';' before '&'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,13): error C2086: 'int ostream': redefinition
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47): message : see declaration of 'ostream'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,32): error C2039: 'ostream': is not a member of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,39): error C2473: 'operator <<': looks like a function definition, but there is no parameter list.
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,15): error C2374: '<<': redefinition; multiple initialization
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(47): message : see declaration of '<<'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,41): error C2065: 's': undeclared identifier
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\Backpack.hpp(48,44): error C2059: syntax error: 'const'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\Problem_plecakowy\main.cpp(10,19): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...

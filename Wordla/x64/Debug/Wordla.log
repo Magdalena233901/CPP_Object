@@ -1,7 +1,4 @@
-﻿  main.cpp
-  Wordle.cpp
-  Generating Code...
-main.obj : error LNK2019: unresolved external symbol "public: __cdecl Wordle::Wordle(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Wordle@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function main
+﻿main.obj : error LNK2019: unresolved external symbol "public: __cdecl Wordle::Wordle(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Wordle@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function main
 main.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Wordle::test(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?test@Wordle@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V23@@Z) referenced in function main
 main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Wordle::draw(void)" (?draw@Wordle@@QEAAXXZ) referenced in function main
 main.obj : error LNK2019: unresolved external symbol "public: bool __cdecl Wordle::isFinished(void)" (?isFinished@Wordle@@QEAA_NXZ) referenced in function main
