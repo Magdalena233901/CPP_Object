@@ -1,33 +1,4 @@
 ﻿  main.cpp
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(11,11): error C3646: 'employees': unknown override specifier
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(11,20): error C2143: syntax error: missing ',' before '['
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(11,24): error C2238: unexpected token(s) preceding ';'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(25,7): error C2039: 'string': is not a member of 'std'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(25,14): error C3646: 'firstName': unknown override specifier
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(25,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(26,7): error C2039: 'string': is not a member of 'std'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(26,14): error C3646: 'secondName': unknown override specifier
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(26,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(8,69): error C2661: 'Professor::Professor': no overloaded function takes 4 arguments
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(9,79): error C2661: 'Professor::Professor': no overloaded function takes 4 arguments
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(10,90): error C2661: 'Lecturer::Lecturer': no overloaded function takes 4 arguments
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(11,86): error C2661: 'Lecturer::Lecturer': no overloaded function takes 4 arguments
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(12,81): error C2661: 'Assistant::Assistant': no overloaded function takes 4 arguments
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(13,77): error C2661: 'Keeper::Keeper': no overloaded function takes 4 arguments
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(14,68): error C2661: 'Guard::Guard': no overloaded function takes 4 arguments
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(16,4): error C2039: 'add': is not a member of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(9): message : see declaration of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(17,4): error C2039: 'add': is not a member of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(9): message : see declaration of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(18,4): error C2039: 'add': is not a member of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(9): message : see declaration of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(19,4): error C2039: 'add': is not a member of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(9): message : see declaration of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(20,4): error C2039: 'add': is not a member of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(9): message : see declaration of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(21,4): error C2039: 'add': is not a member of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(9): message : see declaration of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\main.cpp(22,4): error C2039: 'add': is not a member of 'University'
-C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\University\University.hpp(9): message : see declaration of 'University'
+  University.cpp
+  Generating Code...
+  University.vcxproj -> C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\x64\Debug\University.exe

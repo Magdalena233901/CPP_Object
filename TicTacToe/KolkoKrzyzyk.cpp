@@ -83,6 +83,58 @@ bool Board::isOver()
 	return isOverRows() || isOverCols() || isOverDiagonals();
 }
 
+bool Board::whoWon()
+	{
+		for (int i = 0; i < 3; i++)
+		{
+			if (table[i][0] == table[i][1] && table[i][1] == table[i][2] && table[i][0] == (CheckerState::X) || (CheckerState::O))
+			{
+				std::cout << "Winner is: " << table[i][0] << std::endl;
+				std::cout << "Coordinates of winning line: " << std::endl;
+				for (int j = 0; j < 3; j++)
+				{
+					std::cout << i << "; " << j << std::endl;
+				}
+				return true;
+			}
+			if (table[0][i] == table[1][i] && table[1][i] == table[2][i] && table[0][i] == ((CheckerState::X) || (CheckerState::O))
+			{
+				std::cout << "Winner is: " << table[0][i] << std::endl;
+				std::cout << "Coordinates of winning line: " << std::endl;
+				for (int j = 0; j < 3; j++)
+				{
+					std::cout << j << "; " << i << std::endl;
+				}
+				return true;
+			}
+		}
+		if (table[0][0] == table[1][1] && table[1][1] == table[2][2] && table[0][0] == (CheckerState::X) || (CheckerState::O))
+		{
+			std::cout << "Winner is: " << table[1][1] << std::endl;
+			std::cout << "Coordinates of winning line: " << std::endl;
+			for (int j = 0; j < 3; j++)
+			{
+				std::cout << j << "; " << j << std::endl;
+			}
+			return true;
+		}
+		if (table[0][2] == table[1][1] && table[1][1] == table[2][0] && table[2][0] == (CheckerState::X) || (CheckerState::O))
+		{
+			std::cout << "Winner is: " << table[1][1] << std::endl;
+			std::cout << "Coordinates of winning line: " << std::endl;
+			for (int j = 0; j < 3; j++)
+			{
+				std::cout << j << "; " << 2 - j << std::endl;
+			}
+			return true;
+		}
+		return false;
+	}
+
+
+	return false;
+}
+
 Player::Player(CheckerState cs)
 {
 	this->colour = cs;

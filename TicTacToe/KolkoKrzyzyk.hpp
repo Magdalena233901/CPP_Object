@@ -13,7 +13,8 @@ public:
 	CheckerState check(int x, int y) const;
 	bool set(CheckerState cs, int x, int y);
 	bool isOver(); //sugeruje rozbic to na 3 metody - sprawdzanie wierszy (petla), sprawdzanie kolumn (petla), sprawdzanie przeatnych/diagonali
-	bool xWon(); //or CheckerState whoWon();
+	//bool xWon(); //or CheckerState whoWon();
+	bool whoWon(); //or CheckerState whoWon();
 };
 
 class Player

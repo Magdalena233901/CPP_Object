@@ -5,13 +5,13 @@ int main()
 {
 	University u;
 
-	Professor janina("Janina", "Abacka", FormOfEmployment::Contract, 60);
-	Professor jan("Jan", "Badulski", FormOfEmployment::ContractOfEmployment, 8700);
-	Lecturer krzysztof("Krzysztof", "Powolski", FormOfEmployment::ContractOfEmployment, 6000);
-	Lecturer karolina("Karolina", "Szybka", FormOfEmployment::ContractOfEmployment, 5700);
-	Assistant hanna("Hanna", "Nowicjusz", FormOfEmployment::ContractOfMandate, 4500);
-	Keeper tomasz("Tomasz", "Oliwny", FormOfEmployment::ContractOfMandate, 4000);
-	Guard alicja("Alicja", "Strazacka", FormOfEmployment::Contract, 24);
+	Professor* janina = new Professor("Janina", "Abacka", FormOfEmployment::Contract, 60);
+	Professor* jan = new Professor("Jan", "Badulski", FormOfEmployment::ContractOfEmployment, 8700);
+	Lecturer* krzysztof = new Lecturer("Krzysztof", "Powolski", FormOfEmployment::ContractOfEmployment, 6000);
+	Lecturer* karolina = new Lecturer("Karolina", "Szybka", FormOfEmployment::ContractOfEmployment, 5700);
+	Assistant* hanna = new Assistant("Hanna", "Nowicjusz", FormOfEmployment::ContractOfMandate, 4500);
+	Keeper* tomasz = new Keeper("Tomasz", "Oliwny", FormOfEmployment::ContractOfMandate, 4000);
+	Guard* alicja = new Guard("Alicja", "Strazacka", FormOfEmployment::Contract, 24);
 
 	u.add(janina);
 	u.add(jan);
@@ -23,7 +23,13 @@ int main()
 
 	//dynamiczne tworzenie obiektu i dodawanie do uniwersytetu w zaleznosci od danych uzytkownika??
 
+
+
 	std::cout << "Suma wynagrodzen: " << u.calculateEmployerCost() << std::endl;
-	u.printTeachingStaff();
+	std::cout << std::endl;
+	std::cout << "Lista p³ac: " << std::endl;
 	u.printAllStaffNetIncomes();
+	std::cout << std::endl;
+	std::cout << "Pracownicy naukowi: " << std::endl;
+	u.printTeachingStaff();
 }

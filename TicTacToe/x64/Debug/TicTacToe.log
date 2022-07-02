@@ -1,4 +1,18 @@
 ﻿  KolkoKrzyzyk.cpp
-  main.cpp
-  Generating Code...
-  TicTacToe.vcxproj -> C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\x64\Debug\TicTacToe.exe
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(90,101): error C2677: binary '||': no global operator found which takes type 'CheckerState' (or there is no acceptable conversion)
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(110,3): error C2059: syntax error: '}'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(100,102): error C2676: binary '||': 'CheckerState' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(102,59): error C2059: syntax error: ';'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(111,3): error C2059: syntax error: 'if'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(112,1): error C2143: syntax error: missing ';' before '{'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(112,1): error C2447: '{': missing function header (old-style formal list?)
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(121,3): error C2059: syntax error: 'if'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(122,1): error C2143: syntax error: missing ';' before '{'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(122,1): error C2447: '{': missing function header (old-style formal list?)
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(131,3): error C2059: syntax error: 'return'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(132,2): error C2059: syntax error: '}'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(132,2): error C2143: syntax error: missing ';' before '}'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(136,1): error C2059: syntax error: '}'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(136,1): error C2143: syntax error: missing ';' before '}'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(139,1): error C2143: syntax error: missing ';' before '{'
+C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\TicTacToe\KolkoKrzyzyk.cpp(139,1): error C2447: '{': missing function header (old-style formal list?)
