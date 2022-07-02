@@ -1,4 +1,6 @@
-﻿  main.cpp
-  University.cpp
+﻿  EmployeeList.cpp
+  EmployeeManagement.cpp
+  main.cpp
+  UniversityManagement.cpp
   Generating Code...
   University.vcxproj -> C:\ME\SDA&Ericsson\projekty\CPP_Programowanie\CPP_Object\x64\Debug\University.exe

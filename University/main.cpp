@@ -1,4 +1,5 @@
-#include "University.hpp"
+#include "EmployeeManagement.hpp"
+#include "UniversityManagement.hpp"
 #include <iostream>
 
 int main()
@@ -22,14 +23,27 @@ int main()
 	u.add(alicja);
 
 	//dynamiczne tworzenie obiektu i dodawanie do uniwersytetu w zaleznosci od danych uzytkownika??
-
+	//0: koniec programu
+	//1: wypisz sumaryczne koszty pracodawcy
+	//2: wypisz liste plac
+	//3: wypisz pracownikow naukowych
+	//4: dodaj nowego pracownika
+	//5: ...
 
 
 	std::cout << "Suma wynagrodzen: " << u.calculateEmployerCost() << std::endl;
 	std::cout << std::endl;
-	std::cout << "Lista p³ac: " << std::endl;
-	u.printAllStaffNetIncomes();
+	std::cout << "Lista plac: " << std::endl;
+	u.printAllStaffNetIncomes(160);
 	std::cout << std::endl;
 	std::cout << "Pracownicy naukowi: " << std::endl;
 	u.printTeachingStaff();
+
+	delete janina;
+	delete jan;
+	delete krzysztof;
+	delete karolina;
+	delete hanna;
+	delete tomasz;
+	delete alicja;
 }
